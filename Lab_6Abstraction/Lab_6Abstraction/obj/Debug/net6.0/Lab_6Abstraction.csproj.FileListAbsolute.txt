@@ -1,0 +1,15 @@
+D:\Csharp\Lab_6Abstraction\Lab_6Abstraction\bin\Debug\net6.0\Lab_6Abstraction.exe
+D:\Csharp\Lab_6Abstraction\Lab_6Abstraction\bin\Debug\net6.0\Lab_6Abstraction.deps.json
+D:\Csharp\Lab_6Abstraction\Lab_6Abstraction\bin\Debug\net6.0\Lab_6Abstraction.runtimeconfig.json
+D:\Csharp\Lab_6Abstraction\Lab_6Abstraction\bin\Debug\net6.0\Lab_6Abstraction.dll
+D:\Csharp\Lab_6Abstraction\Lab_6Abstraction\bin\Debug\net6.0\Lab_6Abstraction.pdb
+D:\Csharp\Lab_6Abstraction\Lab_6Abstraction\obj\Debug\net6.0\Lab_6Abstraction.csproj.AssemblyReference.cache
+D:\Csharp\Lab_6Abstraction\Lab_6Abstraction\obj\Debug\net6.0\Lab_6Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Lab_6Abstraction\Lab_6Abstraction\obj\Debug\net6.0\Lab_6Abstraction.AssemblyInfoInputs.cache
+D:\Csharp\Lab_6Abstraction\Lab_6Abstraction\obj\Debug\net6.0\Lab_6Abstraction.AssemblyInfo.cs
+D:\Csharp\Lab_6Abstraction\Lab_6Abstraction\obj\Debug\net6.0\Lab_6Abstraction.csproj.CoreCompileInputs.cache
+D:\Csharp\Lab_6Abstraction\Lab_6Abstraction\obj\Debug\net6.0\Lab_6Abstraction.dll
+D:\Csharp\Lab_6Abstraction\Lab_6Abstraction\obj\Debug\net6.0\refint\Lab_6Abstraction.dll
+D:\Csharp\Lab_6Abstraction\Lab_6Abstraction\obj\Debug\net6.0\Lab_6Abstraction.pdb
+D:\Csharp\Lab_6Abstraction\Lab_6Abstraction\obj\Debug\net6.0\Lab_6Abstraction.genruntimeconfig.cache
+D:\Csharp\Lab_6Abstraction\Lab_6Abstraction\obj\Debug\net6.0\ref\Lab_6Abstraction.dll
