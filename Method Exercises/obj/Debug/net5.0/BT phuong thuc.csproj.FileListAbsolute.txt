@@ -1,0 +1,16 @@
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\BT phuong thuc\bin\Debug\net5.0\BT phuong thuc.exe
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\BT phuong thuc\bin\Debug\net5.0\BT phuong thuc.deps.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\BT phuong thuc\bin\Debug\net5.0\BT phuong thuc.runtimeconfig.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\BT phuong thuc\bin\Debug\net5.0\BT phuong thuc.runtimeconfig.dev.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\BT phuong thuc\bin\Debug\net5.0\BT phuong thuc.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\BT phuong thuc\bin\Debug\net5.0\ref\BT phuong thuc.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\BT phuong thuc\bin\Debug\net5.0\BT phuong thuc.pdb
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\BT phuong thuc\obj\Debug\net5.0\BT phuong thuc.csproj.AssemblyReference.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\BT phuong thuc\obj\Debug\net5.0\BT phuong thuc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\BT phuong thuc\obj\Debug\net5.0\BT phuong thuc.AssemblyInfoInputs.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\BT phuong thuc\obj\Debug\net5.0\BT phuong thuc.AssemblyInfo.cs
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\BT phuong thuc\obj\Debug\net5.0\BT phuong thuc.csproj.CoreCompileInputs.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\BT phuong thuc\obj\Debug\net5.0\BT phuong thuc.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\BT phuong thuc\obj\Debug\net5.0\ref\BT phuong thuc.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\BT phuong thuc\obj\Debug\net5.0\BT phuong thuc.pdb
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\BT phuong thuc\obj\Debug\net5.0\BT phuong thuc.genruntimeconfig.cache
