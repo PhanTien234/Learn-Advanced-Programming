@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ATM_Machine",
+    "\\Calculate_ElectricPower",
+    "\\Simple_Calculate",
+    "\\zodiac_prediction"
+  ],
+  "SelectedNode": "\\Calculate_ElectricPower\\calculate_ElectricPower.csproj",
+  "PreviewInSolutionExplorer": false
+}

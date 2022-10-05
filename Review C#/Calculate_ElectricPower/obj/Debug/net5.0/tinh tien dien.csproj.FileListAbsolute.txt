@@ -1,0 +1,16 @@
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\Tổng ôn C#\tinh tien dien\bin\Debug\net5.0\tinh tien dien.exe
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\Tổng ôn C#\tinh tien dien\bin\Debug\net5.0\tinh tien dien.deps.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\Tổng ôn C#\tinh tien dien\bin\Debug\net5.0\tinh tien dien.runtimeconfig.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\Tổng ôn C#\tinh tien dien\bin\Debug\net5.0\tinh tien dien.runtimeconfig.dev.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\Tổng ôn C#\tinh tien dien\bin\Debug\net5.0\tinh tien dien.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\Tổng ôn C#\tinh tien dien\bin\Debug\net5.0\ref\tinh tien dien.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\Tổng ôn C#\tinh tien dien\bin\Debug\net5.0\tinh tien dien.pdb
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\Tổng ôn C#\tinh tien dien\obj\Debug\net5.0\tinh tien dien.csproj.AssemblyReference.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\Tổng ôn C#\tinh tien dien\obj\Debug\net5.0\tinh tien dien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\Tổng ôn C#\tinh tien dien\obj\Debug\net5.0\tinh tien dien.AssemblyInfoInputs.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\Tổng ôn C#\tinh tien dien\obj\Debug\net5.0\tinh tien dien.AssemblyInfo.cs
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\Tổng ôn C#\tinh tien dien\obj\Debug\net5.0\tinh tien dien.csproj.CoreCompileInputs.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\Tổng ôn C#\tinh tien dien\obj\Debug\net5.0\tinh tien dien.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\Tổng ôn C#\tinh tien dien\obj\Debug\net5.0\ref\tinh tien dien.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\Tổng ôn C#\tinh tien dien\obj\Debug\net5.0\tinh tien dien.pdb
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\Tổng ôn C#\tinh tien dien\obj\Debug\net5.0\tinh tien dien.genruntimeconfig.cache
