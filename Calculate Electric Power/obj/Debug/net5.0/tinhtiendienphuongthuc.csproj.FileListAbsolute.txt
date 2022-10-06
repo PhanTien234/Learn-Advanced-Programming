@@ -1,0 +1,32 @@
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tinhtiendienphuongthuc\bin\Debug\net5.0\tinhtiendienphuongthuc.exe
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tinhtiendienphuongthuc\bin\Debug\net5.0\tinhtiendienphuongthuc.deps.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tinhtiendienphuongthuc\bin\Debug\net5.0\tinhtiendienphuongthuc.runtimeconfig.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tinhtiendienphuongthuc\bin\Debug\net5.0\tinhtiendienphuongthuc.runtimeconfig.dev.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tinhtiendienphuongthuc\bin\Debug\net5.0\tinhtiendienphuongthuc.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tinhtiendienphuongthuc\bin\Debug\net5.0\ref\tinhtiendienphuongthuc.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tinhtiendienphuongthuc\bin\Debug\net5.0\tinhtiendienphuongthuc.pdb
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tinhtiendienphuongthuc\obj\Debug\net5.0\tinhtiendienphuongthuc.csproj.AssemblyReference.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tinhtiendienphuongthuc\obj\Debug\net5.0\tinhtiendienphuongthuc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tinhtiendienphuongthuc\obj\Debug\net5.0\tinhtiendienphuongthuc.AssemblyInfoInputs.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tinhtiendienphuongthuc\obj\Debug\net5.0\tinhtiendienphuongthuc.AssemblyInfo.cs
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tinhtiendienphuongthuc\obj\Debug\net5.0\tinhtiendienphuongthuc.csproj.CoreCompileInputs.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tinhtiendienphuongthuc\obj\Debug\net5.0\tinhtiendienphuongthuc.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tinhtiendienphuongthuc\obj\Debug\net5.0\ref\tinhtiendienphuongthuc.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tinhtiendienphuongthuc\obj\Debug\net5.0\tinhtiendienphuongthuc.pdb
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tinhtiendienphuongthuc\obj\Debug\net5.0\tinhtiendienphuongthuc.genruntimeconfig.cache
+D:\tinhtiendienphuongthuc\bin\Debug\net5.0\tinhtiendienphuongthuc.exe
+D:\tinhtiendienphuongthuc\bin\Debug\net5.0\tinhtiendienphuongthuc.deps.json
+D:\tinhtiendienphuongthuc\bin\Debug\net5.0\tinhtiendienphuongthuc.runtimeconfig.json
+D:\tinhtiendienphuongthuc\bin\Debug\net5.0\tinhtiendienphuongthuc.runtimeconfig.dev.json
+D:\tinhtiendienphuongthuc\bin\Debug\net5.0\tinhtiendienphuongthuc.dll
+D:\tinhtiendienphuongthuc\bin\Debug\net5.0\tinhtiendienphuongthuc.pdb
+D:\tinhtiendienphuongthuc\obj\Debug\net5.0\tinhtiendienphuongthuc.csproj.AssemblyReference.cache
+D:\tinhtiendienphuongthuc\obj\Debug\net5.0\tinhtiendienphuongthuc.GeneratedMSBuildEditorConfig.editorconfig
+D:\tinhtiendienphuongthuc\obj\Debug\net5.0\tinhtiendienphuongthuc.AssemblyInfoInputs.cache
+D:\tinhtiendienphuongthuc\obj\Debug\net5.0\tinhtiendienphuongthuc.AssemblyInfo.cs
+D:\tinhtiendienphuongthuc\obj\Debug\net5.0\tinhtiendienphuongthuc.csproj.CoreCompileInputs.cache
+D:\tinhtiendienphuongthuc\obj\Debug\net5.0\tinhtiendienphuongthuc.dll
+D:\tinhtiendienphuongthuc\obj\Debug\net5.0\refint\tinhtiendienphuongthuc.dll
+D:\tinhtiendienphuongthuc\obj\Debug\net5.0\tinhtiendienphuongthuc.pdb
+D:\tinhtiendienphuongthuc\obj\Debug\net5.0\tinhtiendienphuongthuc.genruntimeconfig.cache
+D:\tinhtiendienphuongthuc\obj\Debug\net5.0\ref\tinhtiendienphuongthuc.dll
