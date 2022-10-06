@@ -1,0 +1,16 @@
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap5\bin\Debug\net5.0\nhap5.exe
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap5\bin\Debug\net5.0\nhap5.deps.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap5\bin\Debug\net5.0\nhap5.runtimeconfig.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap5\bin\Debug\net5.0\nhap5.runtimeconfig.dev.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap5\bin\Debug\net5.0\nhap5.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap5\bin\Debug\net5.0\ref\nhap5.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap5\bin\Debug\net5.0\nhap5.pdb
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap5\obj\Debug\net5.0\nhap5.csproj.AssemblyReference.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap5\obj\Debug\net5.0\nhap5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap5\obj\Debug\net5.0\nhap5.AssemblyInfoInputs.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap5\obj\Debug\net5.0\nhap5.AssemblyInfo.cs
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap5\obj\Debug\net5.0\nhap5.csproj.CoreCompileInputs.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap5\obj\Debug\net5.0\nhap5.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap5\obj\Debug\net5.0\ref\nhap5.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap5\obj\Debug\net5.0\nhap5.pdb
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap5\obj\Debug\net5.0\nhap5.genruntimeconfig.cache
