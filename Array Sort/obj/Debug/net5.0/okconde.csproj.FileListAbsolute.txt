@@ -1,0 +1,16 @@
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\okconde\bin\Debug\net5.0\okconde.exe
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\okconde\bin\Debug\net5.0\okconde.deps.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\okconde\bin\Debug\net5.0\okconde.runtimeconfig.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\okconde\bin\Debug\net5.0\okconde.runtimeconfig.dev.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\okconde\bin\Debug\net5.0\okconde.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\okconde\bin\Debug\net5.0\ref\okconde.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\okconde\bin\Debug\net5.0\okconde.pdb
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\okconde\obj\Debug\net5.0\okconde.csproj.AssemblyReference.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\okconde\obj\Debug\net5.0\okconde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\okconde\obj\Debug\net5.0\okconde.AssemblyInfoInputs.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\okconde\obj\Debug\net5.0\okconde.AssemblyInfo.cs
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\okconde\obj\Debug\net5.0\okconde.csproj.CoreCompileInputs.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\okconde\obj\Debug\net5.0\okconde.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\okconde\obj\Debug\net5.0\ref\okconde.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\okconde\obj\Debug\net5.0\okconde.pdb
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\okconde\obj\Debug\net5.0\okconde.genruntimeconfig.cache
