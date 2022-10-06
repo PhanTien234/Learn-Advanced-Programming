@@ -1,0 +1,16 @@
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap\bin\Debug\net5.0\nhap.exe
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap\bin\Debug\net5.0\nhap.deps.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap\bin\Debug\net5.0\nhap.runtimeconfig.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap\bin\Debug\net5.0\nhap.runtimeconfig.dev.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap\bin\Debug\net5.0\nhap.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap\bin\Debug\net5.0\ref\nhap.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap\bin\Debug\net5.0\nhap.pdb
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap\obj\Debug\net5.0\nhap.csproj.AssemblyReference.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap\obj\Debug\net5.0\nhap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap\obj\Debug\net5.0\nhap.AssemblyInfoInputs.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap\obj\Debug\net5.0\nhap.AssemblyInfo.cs
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap\obj\Debug\net5.0\nhap.csproj.CoreCompileInputs.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap\obj\Debug\net5.0\nhap.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap\obj\Debug\net5.0\ref\nhap.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap\obj\Debug\net5.0\nhap.pdb
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\nhap\obj\Debug\net5.0\nhap.genruntimeconfig.cache
